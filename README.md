@@ -11,14 +11,17 @@
 </p>
 
 <!-- GitHub Stats -->
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasPedro123&show_icons=true&count_private=true&hide_border=true&title_color=4F94CD&icon_color=63B8FF&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Correa github stats" /> 
+<div align="start">
+  <br/>
+  <br/>
+  <br/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPedro123&layout=compact&hide_border=true&title_color=4F94CD&text_color=63B8FF&bg_color=0d1117" alt="Lucas Correa top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasPedro123&&theme=tokyonight" alt="LucasPedro123 GitHub Streak" />
+  
 </div>
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasPedro123&&theme=tokyonight" alt="LucasPedro123 GitHub Streak" />
 </p>
 
 <!-- Connect with Me -->
