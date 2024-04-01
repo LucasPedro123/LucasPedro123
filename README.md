@@ -45,6 +45,7 @@
 <!-- Tools -->
 <h3 align="left">Tools:</h3>
 <p align="left">
+  
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://solidity-portuguese.readthedocs.io/pt/latest/_images/logo.svg" alt="Solidity" width="40" height="40"/> </a>
   <a href="https://ethereum.org/pt" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/5e73a1e3ba24f2cd5dd2232a/65847d5eb869d40bfaadf1a1_620b20312c1cbe0df48be554_eth.png" alt="Ethereum" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40"/> </a>
