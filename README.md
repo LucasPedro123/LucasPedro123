@@ -11,13 +11,10 @@
 </p>
 
 <!-- GitHub Stats -->
-<div align="start">
-  <br/>
-  <br/>
-  <br/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPedro123&layout=compact&hide_border=true&title_color=4F94CD&text_color=63B8FF&bg_color=0d1117" alt="Lucas Correa top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasPedro123&&theme=tokyonight" alt="LucasPedro123 GitHub Streak" />
-  
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucascorreaa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Correa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascorreaa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascorreaa&&theme=tokyonight" alt="lucascorreaa" />
 </div>
 
 <!-- GitHub Streak Stats -->
