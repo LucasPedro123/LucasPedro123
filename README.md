@@ -34,7 +34,7 @@
 </p>
 
 <!-- Tools -->
-<h3 align="left">Tools:</h3>
+<h3 align="left">Ferramentas:</h3>
 <p align="left">
   
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://solidity-portuguese.readthedocs.io/pt/latest/_images/logo.svg" alt="Solidity" width="40" height="40"/> </a>
