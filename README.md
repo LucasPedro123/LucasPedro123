@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=63B8FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Pedro;I'm+18+years+old;I´m+from+Brasil,+SP;Web+Developer+and+Web+Designer;Be+Welcome!+:%29" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=63B8FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Pedro;I'm+19+years+old;I´m+from+Brasil,+SP;Web+Developer+and+Web+Designer;Be+Welcome!+:%29" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,6 +16,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascorreaa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascorreaa&&theme=tokyonight" alt="lucascorreaa" />
 </div>
+
 
 <!-- GitHub Streak Stats -->
 <p align="center">
