@@ -6,13 +6,13 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=63B8FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Pedro!;I'm+19+years+old;I´m+from+Brasil,+SP;Web+Developer+and+Web+Designer+UX;Be+Welcome!+:%29" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=63B8FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+MY+NAME+is+Lucas+Pedro!;I'm+19+years+old;I´m+from+Brasil,+SP;Web+Developer+and+Web+Designer+UX;Be+Welcome!+:%29" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- GitHub Stats -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasPedro123&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Correa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasPedro123&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Pedro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPedro123&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasPedro123&&theme=tokyonight" alt="LucasPedro123" />
 </div>
