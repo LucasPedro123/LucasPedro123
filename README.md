@@ -3,6 +3,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=63B8FF&height=120&section=header"/>
 </div>
 
+
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
